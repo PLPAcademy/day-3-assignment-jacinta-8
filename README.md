@@ -24,6 +24,7 @@ C) dart --verify
 D) dart --version
 
 **D**
+
 3. What is the next step after downloading and extracting the Flutter SDK on Linux?
 
 A) Install Homebrew
@@ -32,6 +33,7 @@ C) Run Flutter Doctor
 D) Create a new Flutter project
 
 **B**
+
 4. What command is used to run a newly created Flutter app?
 
 A) flutter start
@@ -40,6 +42,7 @@ C) flutter run
 D) flutter init
 
 **C**
+
 #Python Installation
 
 What is the first step to install Python on a Windows system?
@@ -50,6 +53,7 @@ C) Open the terminal and type sudo apt install python
 D) Install pip manually
 
 **B**
+
 Which option should you ensure is checked during Python installation on Windows?
 
 A) Install with default settings
@@ -76,6 +80,7 @@ C) curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
 D) python --install pip
 
 **C**
+
 What is the purpose of a virtual environment in Python?
 
 A) To keep your projects organized in one folder
@@ -95,6 +100,7 @@ C) Install MySQL Workbench
 D) Set up a root password
 
 **B**
+
 What setup type should you choose for a custom MySQL installation?
 
 A) Developer Default
@@ -103,6 +109,7 @@ C) Full
 D) Custom
 
 **D**
+
 Which products should you select during the MySQL installation?
 
 A) MySQL Server, MySQL Workbench, and MySQL Shell
